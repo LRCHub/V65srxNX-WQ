@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "童話になったらいいのに",
+  "base_artist": "電ǂ鯨",
+  "createdAt": "2025-12-03T08:42:20.309314Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "童話になったらいいのに",
+      "artist": "電ǂ鯨",
+      "has_synced": false,
+      "path": "select/pl_01_童話になったらいいのに_電ǂ鯨.txt"
+    }
+  ]
+}
